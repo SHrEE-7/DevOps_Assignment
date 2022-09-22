@@ -4,7 +4,7 @@
   tasks:
 
   - name: Remove docker running / stopped container
-    command: docker rm -f reactapp:latest
+    command: docker rm -f reactapp
     ignore_errors: yes
 
   - name: Remove docker pulled image
