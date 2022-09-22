@@ -16,7 +16,7 @@
 ```
 <p align="center">  
 	<br>
-	 <img src="Images/jenkins.png"> 
+	 <img src="Images/jenkins.PNG"> 
 	<br>
 	<br>
 </p>
@@ -29,7 +29,7 @@
 ```
 <p align="center">  
 	<br>
-	 <img src="Images/ansible-server.png"> 
+	 <img src="Images/ansible-server.PNG"> 
 	<br>
 	<br>
 </p>
@@ -42,14 +42,14 @@
 ```
 <p align="center">  
 	<br>
-	 <img src="Images/dockerhub.png"> 
+	 <img src="Images/dockerhub.PNG"> 
 	<br>
 	<br>
 </p>
 
 <p align="center">  
 	<br>
-	 <img src="Images/dockerhost.png"> 
+	 <img src="Images/dockerhost.PNG"> 
 	<br>
 	<br>
 </p>
