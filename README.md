@@ -1,4 +1,4 @@
-**## Aesthisia DevOps Assignment** 
+## **Aesthisia DevOps Assignment** 
 ### Launching Docker Container with Ci-CD Pipeline (React App)
 <p align="center">  
 	<br>
