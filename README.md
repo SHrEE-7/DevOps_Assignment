@@ -57,7 +57,7 @@
 ## Deployed React app on Instance
 <p align="center">  
 	<br>
-	 <img src="Images/deployedapp.png"> 
+	 <img src="Images/deployedapp.PNG"> 
 	<br>
 	<br>
 </p>
