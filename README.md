@@ -54,7 +54,7 @@
 	<br>
 </p>
 
-## Deployed React app on Instance
+## Deployed React app on Dockerhost instance
 <p align="center">  
 	<br>
 	 <img src="Images/deployedapp.PNG"> 
